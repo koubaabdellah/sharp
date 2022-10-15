@@ -63,7 +63,7 @@
     "font-awesome-filetypes": "^2.1.0",
     "fuse.js": "^2.6.2",
     "leaflet": "^1.4.0",
-    "moment": "^2.19.1",
+    "moment": "^2.29.4",
     "qs": "^6.6.0",
     "sharp": "file:resources/assets/js",
     "sharp-commands": "file:packages/commands",
